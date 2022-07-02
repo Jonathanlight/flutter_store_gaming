@@ -7,8 +7,8 @@ UX design Flutter 3
 
 <table>
     <tr>
-        <td> <img src='./gaming/app/assets/images/screen_1.png'></td>
-        <td> <img src='./gaming/app/assets/images/screen_2.png'> </td>
+        <td> <img src='./gaming/assets/images/screen_1.png'></td>
+        <td> <img src='./gaming/assets/images/screen_2.png'> </td>
     </tr>
 </table>
 
